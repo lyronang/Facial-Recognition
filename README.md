@@ -2,7 +2,7 @@
 After training your model, feed the path and it will be able to recognise faces.
 
 
-Uses CNTK backend, cv2 and dlib
+Uses CNTK backend, cv2 and dlib and vgg19 model
 
 
 Use conda install -c menpo dlib
